@@ -1,17 +1,8 @@
----
-title: 'Project documentation template'
-disqus: hackmd
----
 
 Budgetfy.
 ===
 ![downloads](https://img.shields.io/badge/downloads-1-brightgreen)
 ![build](https://img.shields.io/badge/netlify-passing-brightgreen)
-
-
-## Table of Contents
-
-[TOC]
 
 ## Project
 
