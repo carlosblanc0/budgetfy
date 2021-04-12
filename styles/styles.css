@@ -220,6 +220,23 @@ td.expense {
   z-index: 1;
 }
 
+/* Floaty */
+.action span {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #E5E5E5;
+  font-size: 1.3em;
+  transition: 0.3s ease-in-out;
+}
+
+.action:active span {
+  transform: rotate(360deg);
+}
+
 /* Form */
 #form {
   max-width: 500px;
