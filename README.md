@@ -17,8 +17,6 @@ Budgeting app I built using vanilla JS
 
 ## Appendix and FAQ
 
-:::info
 **Find this document incomplete?** Leave a comment!
-:::
 
 ###### tags: `Finance` `Documentation`
