@@ -23,7 +23,7 @@ Data is stored on browser`s session
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/carloswhite/budgetfy.git
 ```
 
 Go to the project directory
