@@ -48,7 +48,7 @@ Start the server
 
  
  ## Live Demo
->  https://try-fenderfy.netlify.app
+>  https://dashboard-budgetfy.netlify.app/
 
 
 ## Acknowledgements
