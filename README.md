@@ -9,6 +9,8 @@
 
 Budgeting app I built using vanilla JS
 
+![budgetfy](budgetfy-gif.gif)
+
 ## Navigating the app
 ```bash
 Manually add items one-by-one
@@ -23,7 +25,7 @@ Data is stored on browser`s session
 Clone the project
 
 ```bash
-  git clone https://github.com/carloswhite/budgetfy.git
+  git clone https://github.com/carlosblanc0/budgetfy.git
 ```
 
 Go to the project directory
